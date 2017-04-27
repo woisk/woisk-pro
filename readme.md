@@ -1,0 +1,12 @@
+终端
+https://github.com/jenssegers/agent
+模型生成
+https://github.com/ignasbernotas/laravel-model-generator
+IP归属地址
+https://github.com/zhuzhichao/ip-location-zh
+手机归属地
+https://github.com/shitoudev/phone-location
+转换变形
+https://github.com/thephpleague/fractal
+jwt-auth
+https://github.com/tymondesigns/jwt-auth
